@@ -3,7 +3,7 @@ import { RepositoriesState,RepositoriesTypes } from "./types";
 
 
 const INITIAL_STATE:RepositoriesState ={
-    data:[{id:1, name:"Anderson Rocha"}],
+    data:[],
     error:false,
     loading:false
 } 
